@@ -35,9 +35,9 @@ Coding Ideas since 2011.<br/>
 
 ## My stats
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni005&show_icons=true&theme=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni005&show_icons=true&theme=compact&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni005&show_icons=true&layout=compact" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=kulkarni005&show_icons=true&theme=default">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulkarni005&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulkarni005&show_icons=true&theme=default&count_private=true" />
 </a>
