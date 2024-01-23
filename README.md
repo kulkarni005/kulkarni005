@@ -1,5 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="230">
-<!--<img align='right' src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="230">-->
+<!--<img align='right' src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="230">-->
+ <img align='right' src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="230"> 
 
 
 ### Hi there, I'm Amit 👋 
